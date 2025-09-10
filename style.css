@@ -1,0 +1,26 @@
+
+    body {
+      font-family: Arial, sans-serif;
+      background: #f5f5f5;
+      padding: 20px;
+    }
+    h1 {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+    .font-samples {
+      display: grid;
+      gap: 15px;
+    }
+    .sample {
+      padding: 15px;
+      border-radius: 8px;
+      color: white;
+      font-size: 18px;
+    }
+    .arial { font-family: Arial, sans-serif; background: #ff6f61; }
+    .times { font-family: "Times New Roman", serif; background: #6a5acd; }
+    .courier { font-family: "Courier New", monospace; background: #20b2aa; }
+    .georgia { font-family: Georgia, serif; background: #ffb347; }
+    .verdana { font-family: Verdana, sans-serif; background: #3cb371; }
+  
